@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction using k-d Tree (1-Nearest Neighbour)
+# Wine Quality Prediction using k-d Tree (1-Nearest Neighbour)
 
 This project implements a **k-d tree** for continuous data to perform **1-Nearest Neighbour (1NN) classification** on a wine quality dataset.
 
